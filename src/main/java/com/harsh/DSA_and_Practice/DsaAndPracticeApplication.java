@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DsaAndPracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DsaAndPracticeApplication.class, args);
+		SpringApplication.run(	DsaAndPracticeApplication.class, args);
 	}
 
 }
